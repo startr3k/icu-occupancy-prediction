@@ -1,3 +1,4 @@
+# ST5188 MSc Statistics NUS Project
 # Hybrid ICU Occupancy Forecasting
 
 This repository contains the code for a short-term ICU bed occupancy forecasting project.  
