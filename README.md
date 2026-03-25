@@ -1,4 +1,6 @@
 # ST5188 MSc Statistics NUS Project
+Final Research Paper [here](https://github.com/startr3k/icu-occupancy-prediction/blob/3562fe0c845fecf63895562777ced4bf07aec547/Final%20Project%20Report.pdf)
+
 # Hybrid ICU Occupancy Forecasting
 
 This repository contains the code for a short-term ICU bed occupancy forecasting project.  
